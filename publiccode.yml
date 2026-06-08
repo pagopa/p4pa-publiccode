@@ -1,6 +1,6 @@
 publiccodeYmlVersion: 0.5.0
 name: Piattaforma Unitaria
-url: https://github.com/pagopa/p4pa-pu-italia
+url: https://github.com/pagopa/p4pa-italia-dev
 softwareVersion: 1.0.0
 releaseDate: 2026-05-25
 platforms:
@@ -13,7 +13,7 @@ categories:
   - data-visualization
 organisation:
   name: PagoPA S.p.A.
-  uri: urn:x-italian-pa:5n2tr557
+  uri: 5n2tr557
 developmentStatus: stable
 softwareType: standalone/web
 intendedAudience:
